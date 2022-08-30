@@ -13,8 +13,23 @@ app.get('/products', (req, res) => {
 })
 
 app.get('/products/id/:id', (req, res) => {
-    
-    let product = products.filter(product => product.id = )
+    let sentID = req.params.id
+
+    const productByID = products.filter((product) => product.id == sentID)
+
+    // function filterByID(value) {
+    //   return value === sentID
+    // }
+
+    // const productByID = products.filter(filterByID)
+
+    // let productByID = products.filter(function (product) {
+    //   return product.id === sentID
+    // })
+
+    console.log(productByID)
+
+    res.send(productByID)
 })
 
 app.listen(port, () => {
