@@ -1,0 +1,62 @@
+[
+    {
+      "id": 0,
+      "name": "Soprano",
+      "phone": "+1 (801) 558-2900",
+      "address": "562 Hope Street, Allensworth, Ohio, 1526"
+    },
+    {
+      "id": 1,
+      "name": "Norsul",
+      "phone": "+1 (801) 583-2085",
+      "address": "939 Hazel Court, Olney, Wyoming, 3821"
+    },
+    {
+      "id": 2,
+      "name": "Acruex",
+      "phone": "+1 (942) 536-3666",
+      "address": "658 Berkeley Place, Rodanthe, Arkansas, 5591"
+    },
+    {
+      "id": 3,
+      "name": "Lumbrex",
+      "phone": "+1 (884) 441-3106",
+      "address": "853 Vandalia Avenue, Forbestown, Alaska, 3640"
+    },
+    {
+      "id": 4,
+      "name": "Zentix",
+      "phone": "+1 (822) 575-3725",
+      "address": "197 Blake Court, Fairfield, Florida, 1565"
+    },
+    {
+      "id": 5,
+      "name": "Kyagoro",
+      "phone": "+1 (910) 429-3494",
+      "address": "121 Coffey Street, Harrodsburg, Guam, 3288"
+    },
+    {
+      "id": 6,
+      "name": "Snowpoke",
+      "phone": "+1 (986) 540-2683",
+      "address": "853 Dorchester Road, Sylvanite, Maryland, 6683"
+    },
+    {
+      "id": 7,
+      "name": "Rameon",
+      "phone": "+1 (871) 470-2464",
+      "address": "481 Johnson Street, Savage, Mississippi, 9206"
+    },
+    {
+      "id": 8,
+      "name": "Combogen",
+      "phone": "+1 (958) 507-3979",
+      "address": "843 Maujer Street, Stewart, Marshall Islands, 3112"
+    },
+    {
+      "id": 9,
+      "name": "Gogol",
+      "phone": "+1 (915) 445-3935",
+      "address": "722 Williams Avenue, Allentown, Rhode Island, 9490"
+    }
+  ]
