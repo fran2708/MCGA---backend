@@ -1,10 +1,12 @@
 const express = require('express')
-const products = require('./data/products.json')
-const employees = require('./data/employees.json')
-const companies = require('./data/companies.json')
+const fs = require('fs')
+const products = require('../data/products_v2.json')
+const employees = require('../data/employees.json')
+const companies = require('../data/companies.json')
 const app = express()
 const port = 3000
 
+app.use(express.json())
 
 app.get('/', (req, res) => {
   res.send('Landing')
@@ -34,6 +36,26 @@ app.get('/products/:id', (req, res) => {
     // })
 
     res.send(productByID)
+})
+
+app.post('/products/add', (req, res) => {
+  const newProd = {
+    id: req.body.id,
+    name: req.body.name,
+    price: req.body.price
+  }
+
+  if(!newProd.id) {
+    res.sendStatus(400)
+  }
+
+  products.push(newProd)
+
+  fs.writeFile('./data/products_v2.json', JSON.stringify(products), (err) => {
+
+  })
+
+  res.json(newProd)
 })
 
 app.get('/empleados', (req, res) => {
