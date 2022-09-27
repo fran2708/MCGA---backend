@@ -1,0 +1,110 @@
+[
+    {
+      "id": 0,
+      "age": 40,
+      "name": "Wood Oconnor",
+      "gender": "male",
+      "email": "woodoconnor@snips.com",
+      "phone": "+1 (984) 465-3199",
+      "address": "415 Jay Street, Caroline, Arkansas, 6792"
+    },
+    {
+      "id": 1,
+      "age": 23,
+      "name": "Sargent Armstrong",
+      "gender": "male",
+      "email": "sargentarmstrong@snips.com",
+      "phone": "+1 (870) 462-2324",
+      "address": "132 Montauk Avenue, Madaket, Oregon, 4933"
+    },
+    {
+      "id": 2,
+      "age": 31,
+      "name": "Hutchinson Petty",
+      "gender": "male",
+      "email": "hutchinsonpetty@snips.com",
+      "phone": "+1 (941) 430-2935",
+      "address": "439 Stockton Street, Coinjock, Federated States Of Micronesia, 3728"
+    },
+    {
+      "id": 3,
+      "age": 22,
+      "name": "Whitfield Crane",
+      "gender": "male",
+      "email": "whitfieldcrane@snips.com",
+      "phone": "+1 (936) 567-3941",
+      "address": "745 Seeley Street, Canby, Kansas, 5008"
+    },
+    {
+      "id": 4,
+      "age": 34,
+      "name": "Luann Haynes",
+      "gender": "female",
+      "email": "luannhaynes@snips.com",
+      "phone": "+1 (955) 597-2692",
+      "address": "851 Fenimore Street, Enetai, North Dakota, 8493"
+    },
+    {
+      "id": 5,
+      "age": 24,
+      "name": "Mcintyre Dillard",
+      "gender": "male",
+      "email": "mcintyredillard@snips.com",
+      "phone": "+1 (905) 467-2581",
+      "address": "325 Berry Street, Disautel, Virginia, 5508"
+    },
+    {
+      "id": 6,
+      "age": 20,
+      "name": "Henrietta Blackwell",
+      "gender": "female",
+      "email": "henriettablackwell@snips.com",
+      "phone": "+1 (847) 521-3582",
+      "address": "317 Elmwood Avenue, Jessie, Ohio, 8133"
+    },
+    {
+      "id": 7,
+      "age": 26,
+      "name": "Queen Hunt",
+      "gender": "female",
+      "email": "queenhunt@snips.com",
+      "phone": "+1 (815) 593-2855",
+      "address": "445 Etna Street, Strykersville, Wyoming, 8382"
+    },
+    {
+      "id": 8,
+      "age": 39,
+      "name": "Welch Ware",
+      "gender": "male",
+      "email": "welchware@snips.com",
+      "phone": "+1 (946) 410-3102",
+      "address": "576 Wilson Street, Nicut, Vermont, 4361"
+    },
+    {
+      "id": 9,
+      "age": 23,
+      "name": "Thomas Wong",
+      "gender": "male",
+      "email": "thomaswong@snips.com",
+      "phone": "+1 (964) 569-2638",
+      "address": "800 Bridge Street, Shasta, Rhode Island, 4144"
+    },
+    {
+      "id": 10,
+      "age": 24,
+      "name": "Randi Gill",
+      "gender": "female",
+      "email": "randigill@snips.com",
+      "phone": "+1 (807) 556-3882",
+      "address": "203 Fillmore Avenue, Elfrida, Texas, 5423"
+    },
+    {
+      "id": 11,
+      "age": 37,
+      "name": "Shannon Murphy",
+      "gender": "male",
+      "email": "shannonmurphy@snips.com",
+      "phone": "+1 (929) 519-3822",
+      "address": "745 Anchorage Place, Eagleville, New Mexico, 5720"
+    }
+  ]
